@@ -9,7 +9,6 @@ import pandas as pd
 import numpy as np
 import datetime
 import math
-import talib
 
 # 在这个方法中编写任何的初始化逻辑。context对象将会在你的算法策略的任何方法之间做传递。
 def init(context):
